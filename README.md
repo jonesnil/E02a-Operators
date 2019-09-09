@@ -1,3 +1,8 @@
+#
+#The main file has some simple functions that I added some calculation/methods to. Mostly basic operations and making/altering lists.
+#
+#
+#
 # E02a-Operators
 An exercise exploring python operators and data types
 
